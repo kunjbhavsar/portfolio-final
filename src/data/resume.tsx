@@ -158,7 +158,17 @@ export const DATA = {
     },
   ],
   projects: [
-
+    {
+      title: "Placeholder",
+      href: "#",
+      dates: "",
+      active: false,
+      description: "",
+      technologies: [],
+      links: [],
+      image: "",
+      video: "",
+    },
   ],
 
 } as const;
