@@ -21,7 +21,7 @@ export const DATA = {
     "Web Developer & Systems Analyst. Proficient in Python, Java and React with a strong foundation in AI.",
   summary:
     "Web Developer with over 5 years of experience in programming web-based applications, technical support, and systems analysis. I hold a Bachelor of Science in Computer Science from Algoma University (GPA 3.7) and a Diploma in Internet Applications and Web Development. I am a collaborative team player passionate about lifelong learning and delivering client-centric IT solutions.",
-  avatarUrl: "/me.jpg",
+  avatarUrl: "/me.JPG",
   skills: [
     { name: "Python", icon: Python },
     { name: "Java", icon: Java },
