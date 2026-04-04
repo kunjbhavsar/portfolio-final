@@ -159,15 +159,27 @@ export const DATA = {
   ],
   projects: [
     {
-      title: "Placeholder",
-      href: "#",
-      dates: "",
-      active: false,
-      description: "",
-      technologies: [],
-      links: [],
-      image: "",
-      video: "",
+      title: "AmazoQueue",
+      href: "https://github.com/kunjbhavsar/AmazoQueue",
+      dates: "2026",
+      active: true,
+      description:
+        "Built a full-stack asynchronous job queue system using Spring Boot, PostgreSQL and React. The system supports job creation, scheduled background processing, retry logic on failure, validation, filtering and a live dashboard for monitoring job lifecycle status.",
+      technologies: [
+        "Java",
+        "Spring Boot",
+        "PostgreSQL",
+        "React",
+        "Vite",
+        "REST API"
+      ],
+      links: [
+        {
+          type: "GitHub",
+          href: "https://github.com/kunjbhavsar/AmazoQueue",
+        },
+      ],
+      image: "/AmazoQueue.png",
     },
   ],
 
