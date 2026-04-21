@@ -18,9 +18,9 @@ export const DATA = {
   location: "Brampton, ON",
   locationLink: "https://www.google.com/maps/place/Brampton,+ON",
   description:
-    "Web Developer & Systems Analyst. Proficient in Python, Java and React with a strong foundation in AI.",
+    "Full Stack Developer & Systems Analyst. Focused on scalable systems and AI",
   summary:
-    "Web Developer with over 5 years of experience in programming web-based applications, technical support, and systems analysis. I hold a Bachelor of Science in Computer Science from Algoma University (GPA 3.7) and a Diploma in Internet Applications and Web Development. I am a collaborative team player passionate about lifelong learning and delivering client-centric IT solutions.",
+    "Full Stack Developer with over 5 years of experience in programming web-based applications, AI, technical support and systems analysis. I hold a Bachelor of Science in Computer Science from Algoma University (GPA 3.7) and a Diploma in Internet Applications and Web Development. I am a collaborative team player passionate about lifelong learning and delivering client-centric IT solutions.",
   avatarUrl: "/me.JPG",
   skills: [
     { name: "Python", icon: Python },
@@ -63,7 +63,7 @@ export const DATA = {
       },
       Youtube: {
         name: "Youtube",
-        url: "www.youtube.com/@kunjbhavsar",
+        url: "https://www.youtube.com/@kunjbhavsar",
         icon: Icons.youtube,
         navbar: true,
       },
@@ -78,6 +78,18 @@ export const DATA = {
   },
 
   work: [
+    {
+      company: "Outlier",
+      href: "https://www.outlier.ai/",
+      badges: ["Freelance"],
+      location: "Remote",
+      title: "Full Stack Developer + AI",
+      logoUrl: "/outlier.png",
+      start: "Apr 2026",
+      end: "Present",
+      description:
+        "Developed and evaluated AI-driven workflows by creating real-world prompts and structured scoring rubrics to assess model performance. Applied weighted evaluation criteria including reasoning, accuracy, and clarity to compare responses and identify optimal outputs. Iteratively refined prompts and evaluation strategies to improve response quality across multi-turn interactions in a production-like environment.",
+    },
     {
       company: "Algoma University",
       href: "https://www.algomau.ca/",
